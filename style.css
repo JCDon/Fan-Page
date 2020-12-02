@@ -1,0 +1,38 @@
+body {
+    background-color: #382954
+}
+
+.container {
+    width: 500px;
+    background: white;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    margin:0 auto;
+    border-width: 5px;
+    border-color: white;
+    background: white;
+}
+
+
+.photo {
+    background: white;
+    border-style: groove;
+    float: left;
+}
+
+.annoying {
+    background:black;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    position: fixed;
+    color:white;
+    bottom: 2px;
+    left: 2px;
+}
+
+
+
